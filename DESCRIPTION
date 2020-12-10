@@ -18,9 +18,7 @@ BugReports: https://github.com/ITSLeeds/brokenPackage/issues
 Encoding: UTF-8
 LazyData: true
 Imports:
-    usethis,
-    devtools,
-    goodpractice
+    checkmate
 RoxygenNote: 7.1.1
 Suggests: 
     covr,
